@@ -33,4 +33,36 @@
       <li><a href="https://github.com/simonfredy/tugas_25_html.git">TUGAS 25 HTML</a></li>
       <li><a href="https://github.com/simonfredy/tugas_akhir_html.git">TUGAS AKHIR HTML</a></li>
     </ul>
+    <hr>
+    <h2>CSS</h2>
+    <ul type="square">
+      <li><a href="https://github.com/simonfredy/tugas_1_css.git">TUGAS 1 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_2_css.git">TUGAS 2 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_3_css.git">TUGAS 3 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_4_css.git">TUGAS 4 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_5_css.git">TUGAS 5 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_6_css.git">TUGAS 6 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_7_css.git">TUGAS 7 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_8_css.git">TUGAS 8 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_9_css.git">TUGAS 9 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_10_css.git">TUGAS 10 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_11_css.git">TUGAS 11 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_12_css.git">TUGAS 12 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_13_css.git">TUGAS 13 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_14_css.git">TUGAS 14 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_15_css.git">TUGAS 15 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_16_css.git">TUGAS 16 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_17_css.git">TUGAS 17 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_18_css.git">TUGAS 18 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_19_css.git">TUGAS 19 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_20_css.git">TUGAS 20 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_21_css.git">TUGAS 21 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_22_css.git">TUGAS 22 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_23_css.git">TUGAS 23 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_24_css.git">TUGAS 24 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_25_css.git">TUGAS 25 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_26_css.git">TUGAS 26 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_27_css.git">TUGAS 27 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_28_css.git">TUGAS 28 CSS</a></li>
+    </ul>
   </body>
