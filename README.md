@@ -64,5 +64,6 @@
       <li><a href="https://github.com/simonfredy/tugas_26_css.git">TUGAS 26 CSS</a></li>
       <li><a href="https://github.com/simonfredy/tugas_27_css.git">TUGAS 27 CSS</a></li>
       <li><a href="https://github.com/simonfredy/tugas_28_css.git">TUGAS 28 CSS</a></li>
+      <li><a href="https://github.com/simonfredy/tugas_29_css.git">TUGAS 29 CSS</a></li>
     </ul>
   </body>
