@@ -4,7 +4,7 @@ Berikut adalah link tugas yang diberikan oleh NIOMIC
 
 HTML
 
-TUGAS 01      ->  https://github.com/simonfredy/tugas_1_html.git
+TUGAS 01      ->  https://github.com/simonfredy/tugas_1_html.git <br>
 TUGAS 02      ->  https://github.com/simonfredy/tugas_2_html.git
 TUGAS 03      ->  https://github.com/simonfredy/tugas_3_html.git
 TUGAS 04      ->  https://github.com/simonfredy/tugas_4_html.git
